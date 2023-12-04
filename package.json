@@ -1,7 +1,10 @@
 {
   "name": "eslint-plugin-no-const-array",
   "version": "1.0.0",
-  "description": "Rule ",
+  "description": "Don't use const in arrays anymore",
+  "repository": {
+    "url": "git+https://github.com/deprecated-guy/eslint-plugin-no-const-array.git"
+  },
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -p ./tsconfig.json"
