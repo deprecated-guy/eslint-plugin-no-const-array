@@ -1,7 +1,7 @@
 # No Const Array plugin
 ## What's doing those plugin?
 ### Restricts using arrays which will be declared as constant
-> **Require**
+>**Require**
 > 123
 ### Usage
 ```javascript
