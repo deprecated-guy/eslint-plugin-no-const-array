@@ -1,7 +1,8 @@
 # No Const Array plugin
 ## What's doing those plugin?
 ### Restricts using arrays which will be declared as constant
-> [!CAUTION] 123
+> **Caution**
+> 123
 ### Usage
 ```javascript
 module.exports = {
